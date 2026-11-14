@@ -1,0 +1,7 @@
+memscan
+w
+e
+*.o
+faust
+install.sh
+2faust.c
